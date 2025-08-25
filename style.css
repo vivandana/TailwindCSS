@@ -2,3 +2,12 @@
 /* @utility container{
     margin:auto;
 } */
+
+@theme{
+    --breakpoint-sm:700px;
+    --breakpoint-md:900px;
+    --breakpoint-lg:1000px;
+    --breakpoint-xl:1300px;
+    --breakpoint-bg:1300px;
+}
+
